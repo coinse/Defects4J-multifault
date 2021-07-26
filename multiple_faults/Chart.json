@@ -1,0 +1,452 @@
+{
+    "4": {
+        "3": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testCreateCopy3"
+        ],
+        "4": [
+            "org.jfree.chart.axis.junit.LogAxisTests.testXYAutoRange1",
+            "org.jfree.chart.axis.junit.LogAxisTests.testXYAutoRange2",
+            "org.jfree.chart.axis.junit.NumberAxisTests.testXYAutoRange1",
+            "org.jfree.chart.axis.junit.NumberAxisTests.testXYAutoRange2",
+            "org.jfree.chart.axis.junit.ValueAxisTests.testAxisMargins",
+            "org.jfree.chart.junit.JFreeChartTests.testSerialization4",
+            "org.jfree.chart.junit.ScatterPlotTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.ScatterPlotTests.testSetSeriesToolTipGenerator",
+            "org.jfree.chart.junit.ScatterPlotTests.testReplaceDataset",
+            "org.jfree.chart.junit.TimeSeriesChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.TimeSeriesChartTests.testSetSeriesToolTipGenerator",
+            "org.jfree.chart.junit.TimeSeriesChartTests.testReplaceDataset",
+            "org.jfree.chart.junit.XYAreaChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.XYAreaChartTests.testSetSeriesToolTipGenerator",
+            "org.jfree.chart.junit.XYAreaChartTests.testReplaceDataset",
+            "org.jfree.chart.junit.XYStepAreaChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.XYStepAreaChartTests.testSetSeriesToolTipGenerator",
+            "org.jfree.chart.junit.XYStepAreaChartTests.testReplaceDataset",
+            "org.jfree.chart.junit.XYStepChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.XYStepChartTests.testSetSeriesToolTipGenerator",
+            "org.jfree.chart.junit.XYStepChartTests.testReplaceDataset",
+            "org.jfree.chart.plot.junit.XYPlotTests.testDrawRangeGridlines"
+        ]
+    },
+    "8": {
+        "7": [
+            "org.jfree.data.time.junit.TimePeriodValuesTests.testGetMaxMiddleIndex"
+        ],
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ]
+    },
+    "9": {
+        "7": [
+            "org.jfree.data.time.junit.TimePeriodValuesTests.testGetMaxMiddleIndex"
+        ],
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ]
+    },
+    "10": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "10": [
+            "org.jfree.chart.imagemap.junit.StandardToolTipTagFragmentGeneratorTests.testGenerateURLFragment"
+        ]
+    },
+    "11": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "11": [
+            "org.jfree.chart.util.junit.ShapeUtilitiesTests.testEqualGeneralPaths"
+        ]
+    },
+    "12": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "12": [
+            "org.jfree.chart.plot.junit.MultiplePiePlotTests.testConstructor"
+        ]
+    },
+    "13": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "13": [
+            "org.jfree.chart.block.junit.BorderArrangementTests.testSizingWithWidthConstraint"
+        ]
+    },
+    "14": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "14": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveDomainMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveDomainMarker"
+        ]
+    },
+    "15": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "14": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveDomainMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveDomainMarker"
+        ],
+        "15": [
+            "org.jfree.chart.plot.junit.PiePlot3DTests.testDrawWithNullDataset"
+        ]
+    },
+    "16": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "14": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveDomainMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveDomainMarker"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ]
+    },
+    "17": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "14": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveDomainMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveDomainMarker"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ]
+    },
+    "18": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "14": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testRemoveDomainMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveRangeMarker",
+            "org.jfree.chart.plot.junit.XYPlotTests.testRemoveDomainMarker"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "18": [
+            "org.jfree.data.category.junit.DefaultCategoryDatasetTests.testBug1835955",
+            "org.jfree.data.junit.DefaultKeyedValues2DTests.testRemoveColumnByKey",
+            "org.jfree.data.junit.DefaultKeyedValuesTests.testRemoveValue",
+            "org.jfree.data.junit.DefaultKeyedValuesTests.testGetIndex2"
+        ]
+    },
+    "19": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "19": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetRangeAxisIndex",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetDomainAxisIndex"
+        ]
+    },
+    "20": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "19": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetRangeAxisIndex",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetDomainAxisIndex"
+        ],
+        "20": [
+            "org.jfree.chart.plot.junit.ValueMarkerTests.test1808376"
+        ]
+    },
+    "21": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "19": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetRangeAxisIndex",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetDomainAxisIndex"
+        ],
+        "21": [
+            "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests.testGetRangeBounds"
+        ]
+    },
+    "22": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "19": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetRangeAxisIndex",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetDomainAxisIndex"
+        ],
+        "21": [
+            "org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests.testGetRangeBounds"
+        ],
+        "22": [
+            "org.jfree.data.junit.KeyedObjects2DTests.testRemoveColumnByKey",
+            "org.jfree.data.junit.KeyedObjects2DTests.testRemoveValue",
+            "org.jfree.data.junit.KeyedObjects2DTests.testGetValueByKey",
+            "org.jfree.data.junit.KeyedObjects2DTests.testRemoveColumnByIndex",
+            "org.jfree.data.junit.KeyedObjects2DTests.testSetObject",
+            "org.jfree.data.junit.KeyedObjects2DTests.testRemoveRowByKey"
+        ]
+    },
+    "23": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "19": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetRangeAxisIndex",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetDomainAxisIndex"
+        ],
+        "23": [
+            "org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests.testEquals"
+        ]
+    },
+    "24": {
+        "8": [
+            "org.jfree.data.time.junit.WeekTests.testConstructor"
+        ],
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "19": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetRangeAxisIndex",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetDomainAxisIndex"
+        ],
+        "24": [
+            "org.jfree.chart.renderer.junit.GrayPaintScaleTests.testGetPaint"
+        ]
+    },
+    "25": {
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "19": [
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetRangeAxisIndex",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testGetDomainAxisIndex"
+        ],
+        "25": [
+            "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests.testDrawWithNullMeanVertical",
+            "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests.testDrawWithNullDeviationVertical",
+            "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests.testDrawWithNullMeanHorizontal",
+            "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests.testDrawWithNullDeviationHorizontal"
+        ]
+    },
+    "26": {
+        "9": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1864222"
+        ],
+        "16": [
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetCategoryIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testSetCategoryKeys",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetSeriesIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetRowIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnCount",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testGetColumnIndex",
+            "org.jfree.data.category.junit.DefaultIntervalCategoryDatasetTests.testCloning2"
+        ],
+        "17": [
+            "org.jfree.data.time.junit.TimeSeriesTests.testBug1832432"
+        ],
+        "26": [
+            "org.jfree.chart.junit.AreaChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.BarChart3DTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.BarChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.GanttChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.GanttChartTests.testDrawWithNullInfo2",
+            "org.jfree.chart.junit.LineChart3DTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.LineChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.StackedAreaChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.StackedBarChart3DTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.StackedBarChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.junit.WaterfallChartTests.testDrawWithNullInfo",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.test1654215",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testSerialization3",
+            "org.jfree.chart.plot.junit.CategoryPlotTests.testSerialization4",
+            "org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests.testDrawWithNullInfo",
+            "org.jfree.chart.renderer.category.junit.GroupedStackedBarRendererTests.testDrawWithNullInfo",
+            "org.jfree.chart.renderer.category.junit.IntervalBarRendererTests.testDrawWithNullInfo",
+            "org.jfree.chart.renderer.category.junit.LayeredBarRendererTests.testDrawWithNullInfo",
+            "org.jfree.chart.renderer.category.junit.LevelRendererTests.testDrawWithNullInfo",
+            "org.jfree.chart.renderer.category.junit.MinMaxCategoryRendererTests.testDrawWithNullInfo",
+            "org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests.testDrawWithNullInfo",
+            "org.jfree.chart.renderer.category.junit.StatisticalLineAndShapeRendererTests.testDrawWithNullInfo"
+        ]
+    }
+}

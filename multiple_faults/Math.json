@@ -1,0 +1,2183 @@
+{
+    "2": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "2": [
+            "org.apache.commons.math3.distribution.HypergeometricDistributionTest.testMath1021"
+        ]
+    },
+    "3": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "2": [
+            "org.apache.commons.math3.distribution.HypergeometricDistributionTest.testMath1021"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ]
+    },
+    "4": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "2": [
+            "org.apache.commons.math3.distribution.HypergeometricDistributionTest.testMath1021"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ]
+    },
+    "5": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ]
+    },
+    "6": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "6": [
+            "org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizerTest.testTrivial",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testConstrainedRosen",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testElliRotated",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testEllipse",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testTwoAxes",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testCigar",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testRosen",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testRastrigin",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testDiagonalRosen",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testSsDiffPow",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testMaximize",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testAckley",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testCigTab",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testDiffPow",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testSphere",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testTablet",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizerTest.testCigarWithBoundaries",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizerTest.testSumSinc",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerMultiDirectionalTest.testMaximize1",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerMultiDirectionalTest.testMaximize2",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerMultiDirectionalTest.testMinimize1",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerMultiDirectionalTest.testMinimize2",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerNelderMeadTest.testMaximize1",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerNelderMeadTest.testMaximize2",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerNelderMeadTest.testMinimize1",
+            "org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizerNelderMeadTest.testMinimize2",
+            "org.apache.commons.math3.optim.nonlinear.vector.jacobian.GaussNewtonOptimizerTest.testGetIterations",
+            "org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizerTest.testGetIterations"
+        ]
+    },
+    "7": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "7": [
+            "org.apache.commons.math3.ode.nonstiff.DormandPrince853IntegratorTest.testEventsScheduling"
+        ]
+    },
+    "8": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "8": [
+            "org.apache.commons.math3.distribution.DiscreteRealDistributionTest.testIssue942"
+        ]
+    },
+    "9": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ]
+    },
+    "10": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ]
+    },
+    "11": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "11": [
+            "org.apache.commons.math3.distribution.MultivariateNormalDistributionTest.testUnivariateDistribution"
+        ]
+    },
+    "12": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "12": [
+            "org.apache.commons.math3.distribution.GammaDistributionTest.testDistributionClone",
+            "org.apache.commons.math3.distribution.LogNormalDistributionTest.testDistributionClone",
+            "org.apache.commons.math3.distribution.NormalDistributionTest.testDistributionClone"
+        ]
+    },
+    "13": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "13": [
+            "org.apache.commons.math3.optimization.fitting.PolynomialFitterTest.testLargeSample"
+        ]
+    },
+    "14": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "14": [
+            "org.apache.commons.math3.fitting.PolynomialFitterTest.testLargeSample"
+        ]
+    },
+    "15": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "15": [
+            "org.apache.commons.math3.util.FastMathTest.testMath904"
+        ]
+    },
+    "16": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "15": [
+            "org.apache.commons.math3.util.FastMathTest.testMath904"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ]
+    },
+    "17": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "15": [
+            "org.apache.commons.math3.util.FastMathTest.testMath904"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ]
+    },
+    "18": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "15": [
+            "org.apache.commons.math3.util.FastMathTest.testMath904"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "18": [
+            "org.apache.commons.math3.optimization.direct.CMAESOptimizerTest.testFitAccuracyDependsOnBoundary"
+        ]
+    },
+    "19": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "19": [
+            "org.apache.commons.math3.optimization.direct.CMAESOptimizerTest.testBoundaryRangeTooLarge"
+        ]
+    },
+    "20": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "20": [
+            "org.apache.commons.math3.optimization.direct.CMAESOptimizerTest.testMath864"
+        ]
+    },
+    "21": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "21": [
+            "org.apache.commons.math3.linear.RectangularCholeskyDecompositionTest.testMath789",
+            "org.apache.commons.math3.linear.RectangularCholeskyDecompositionTest.testFullRank"
+        ]
+    },
+    "22": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "22": [
+            "org.apache.commons.math3.distribution.FDistributionTest.testIsSupportLowerBoundInclusive",
+            "org.apache.commons.math3.distribution.UniformRealDistributionTest.testIsSupportUpperBoundInclusive"
+        ]
+    },
+    "23": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "23": [
+            "org.apache.commons.math3.optimization.univariate.BrentOptimizerTest.testKeepInitIfBest"
+        ]
+    },
+    "24": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "4": [
+            "org.apache.commons.math3.geometry.euclidean.threed.SubLineTest.testIntersectionNotIntersecting",
+            "org.apache.commons.math3.geometry.euclidean.twod.SubLineTest.testIntersectionParallel"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "23": [
+            "org.apache.commons.math3.optimization.univariate.BrentOptimizerTest.testKeepInitIfBest"
+        ],
+        "24": [
+            "org.apache.commons.math3.optimization.univariate.BrentOptimizerTest.testMath855"
+        ]
+    },
+    "25": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "10": [
+            "org.apache.commons.math3.analysis.differentiation.DerivativeStructureTest.testAtan2SpecialCases"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "25": [
+            "org.apache.commons.math3.optimization.fitting.HarmonicFitterTest.testMath844"
+        ]
+    },
+    "26": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ]
+    },
+    "27": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ]
+    },
+    "28": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ],
+        "28": [
+            "org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath828Cycle"
+        ]
+    },
+    "29": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ],
+        "29": [
+            "org.apache.commons.math3.linear.SparseRealVectorTest.testEbeDivideMixedTypes",
+            "org.apache.commons.math3.linear.SparseRealVectorTest.testEbeMultiplyMixedTypes",
+            "org.apache.commons.math3.linear.SparseRealVectorTest.testEbeMultiplySameType"
+        ]
+    },
+    "30": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ],
+        "30": [
+            "org.apache.commons.math3.stat.inference.MannWhitneyUTestTest.testBigDataSet"
+        ]
+    },
+    "31": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ],
+        "30": [
+            "org.apache.commons.math3.stat.inference.MannWhitneyUTestTest.testBigDataSet"
+        ],
+        "31": [
+            "org.apache.commons.math3.distribution.BinomialDistributionTest.testMath718",
+            "org.apache.commons.math3.distribution.FDistributionTest.testMath785"
+        ]
+    },
+    "32": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ],
+        "30": [
+            "org.apache.commons.math3.stat.inference.MannWhitneyUTestTest.testBigDataSet"
+        ],
+        "32": [
+            "org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSetTest.testIssue780"
+        ]
+    },
+    "33": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ],
+        "30": [
+            "org.apache.commons.math3.stat.inference.MannWhitneyUTestTest.testBigDataSet"
+        ],
+        "33": [
+            "org.apache.commons.math3.optimization.linear.SimplexSolverTest.testMath781"
+        ]
+    },
+    "34": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ],
+        "30": [
+            "org.apache.commons.math3.stat.inference.MannWhitneyUTestTest.testBigDataSet"
+        ],
+        "34": [
+            "org.apache.commons.math3.genetics.ListPopulationTest.testIterator"
+        ]
+    },
+    "35": {
+        "1": [
+            "org.apache.commons.math3.fraction.BigFractionTest.testDigitLimitConstructor",
+            "org.apache.commons.math3.fraction.FractionTest.testDigitLimitConstructor"
+        ],
+        "3": [
+            "org.apache.commons.math3.util.MathArraysTest.testLinearCombinationWithSingleElementArray"
+        ],
+        "5": [
+            "org.apache.commons.math3.complex.ComplexTest.testReciprocalZero"
+        ],
+        "9": [
+            "org.apache.commons.math3.geometry.euclidean.threed.LineTest.testRevert"
+        ],
+        "16": [
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargePositive",
+            "org.apache.commons.math3.util.FastMathTest.testMath905LargeNegative"
+        ],
+        "17": [
+            "org.apache.commons.math3.dfp.DfpTest.testMultiply"
+        ],
+        "26": [
+            "org.apache.commons.math3.fraction.FractionTest.testIntegerOverflow"
+        ],
+        "27": [
+            "org.apache.commons.math3.fraction.FractionTest.testMath835"
+        ],
+        "30": [
+            "org.apache.commons.math3.stat.inference.MannWhitneyUTestTest.testBigDataSet"
+        ],
+        "35": [
+            "org.apache.commons.math3.genetics.ElitisticListPopulationTest.testChromosomeListConstructorTooLow",
+            "org.apache.commons.math3.genetics.ElitisticListPopulationTest.testConstructorTooHigh",
+            "org.apache.commons.math3.genetics.ElitisticListPopulationTest.testConstructorTooLow",
+            "org.apache.commons.math3.genetics.ElitisticListPopulationTest.testChromosomeListConstructorTooHigh"
+        ]
+    },
+    "37": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ]
+    },
+    "38": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "38": [
+            "org.apache.commons.math.optimization.direct.BOBYQAOptimizerTest.testConstrainedRosenWithMoreInterpolationPoints"
+        ]
+    },
+    "39": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "39": [
+            "org.apache.commons.math.ode.nonstiff.DormandPrince853IntegratorTest.testTooLargeFirstStep"
+        ]
+    },
+    "40": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "40": [
+            "org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolverTest.testIssue716"
+        ]
+    },
+    "41": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "41": [
+            "org.apache.commons.math.stat.descriptive.moment.VarianceTest.testEvaluateArraySegmentWeighted"
+        ]
+    },
+    "42": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "42": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath713NegativeVariable"
+        ]
+    },
+    "43": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "43": [
+            "org.apache.commons.math.stat.descriptive.SummaryStatisticsTest.testOverrideMeanWithMathClass",
+            "org.apache.commons.math.stat.descriptive.SummaryStatisticsTest.testOverrideGeoMeanWithMathClass",
+            "org.apache.commons.math.stat.descriptive.SummaryStatisticsTest.testOverrideVarianceWithMathClass",
+            "org.apache.commons.math.stat.descriptive.SynchronizedSummaryStatisticsTest.testOverrideMeanWithMathClass",
+            "org.apache.commons.math.stat.descriptive.SynchronizedSummaryStatisticsTest.testOverrideGeoMeanWithMathClass",
+            "org.apache.commons.math.stat.descriptive.SynchronizedSummaryStatisticsTest.testOverrideVarianceWithMathClass"
+        ]
+    },
+    "44": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "44": [
+            "org.apache.commons.math.ode.events.EventStateTest.testIssue695"
+        ]
+    },
+    "45": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "45": [
+            "org.apache.commons.math.linear.OpenMapRealMatrixTest.testMath679"
+        ]
+    },
+    "46": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "46": [
+            "org.apache.commons.math.complex.ComplexTest.testAtanI",
+            "org.apache.commons.math.complex.ComplexTest.testDivideZero"
+        ]
+    },
+    "47": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "47": [
+            "org.apache.commons.math.complex.ComplexTest.testAtanI",
+            "org.apache.commons.math.complex.ComplexTest.testDivideZero"
+        ]
+    },
+    "48": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "48": [
+            "org.apache.commons.math.analysis.solvers.RegulaFalsiSolverTest.testIssue631"
+        ]
+    },
+    "49": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ]
+    },
+    "50": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "50": [
+            "org.apache.commons.math.analysis.solvers.RegulaFalsiSolverTest.testIssue631"
+        ]
+    },
+    "51": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "51": [
+            "org.apache.commons.math.analysis.solvers.RegulaFalsiSolverTest.testIssue631"
+        ]
+    },
+    "52": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "37": [
+            "org.apache.commons.math.complex.ComplexTest.testTanhInf",
+            "org.apache.commons.math.complex.ComplexTest.testTan",
+            "org.apache.commons.math.complex.ComplexTest.testTanh",
+            "org.apache.commons.math.complex.ComplexTest.testTanInf"
+        ],
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "52": [
+            "org.apache.commons.math.geometry.euclidean.threed.RotationTest.testIssue639"
+        ]
+    },
+    "53": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "52": [
+            "org.apache.commons.math.geometry.euclidean.threed.RotationTest.testIssue639"
+        ],
+        "53": [
+            "org.apache.commons.math.complex.ComplexTest.testAddNaN"
+        ]
+    },
+    "54": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "53": [
+            "org.apache.commons.math.complex.ComplexTest.testAddNaN"
+        ],
+        "54": [
+            "org.apache.commons.math.dfp.DfpTest.testIssue567"
+        ]
+    },
+    "55": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "53": [
+            "org.apache.commons.math.complex.ComplexTest.testAddNaN"
+        ],
+        "55": [
+            "org.apache.commons.math.geometry.Vector3DTest.testCrossProductCancellation"
+        ]
+    },
+    "56": {
+        "36": [
+            "org.apache.commons.math.fraction.BigFractionTest.testFloatValueForLargeNumeratorAndDenominator",
+            "org.apache.commons.math.fraction.BigFractionTest.testDoubleValueForLargeNumeratorAndDenominator"
+        ],
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "53": [
+            "org.apache.commons.math.complex.ComplexTest.testAddNaN"
+        ],
+        "55": [
+            "org.apache.commons.math.geometry.Vector3DTest.testCrossProductCancellation"
+        ],
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ]
+    },
+    "57": {
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "55": [
+            "org.apache.commons.math.geometry.Vector3DTest.testCrossProductCancellation"
+        ],
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "57": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testSmallDistances"
+        ]
+    },
+    "58": {
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "55": [
+            "org.apache.commons.math.geometry.Vector3DTest.testCrossProductCancellation"
+        ],
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "58": [
+            "org.apache.commons.math.optimization.fitting.GaussianFitterTest.testMath519"
+        ]
+    },
+    "59": {
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "59": [
+            "org.apache.commons.math.util.FastMathTest.testMinMaxFloat"
+        ]
+    },
+    "60": {
+        "49": [
+            "org.apache.commons.math.linear.SparseRealVectorTest.testConcurrentModification"
+        ],
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "59": [
+            "org.apache.commons.math.util.FastMathTest.testMinMaxFloat"
+        ],
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ]
+    },
+    "61": {
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "59": [
+            "org.apache.commons.math.util.FastMathTest.testMinMaxFloat"
+        ],
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "61": [
+            "org.apache.commons.math.distribution.PoissonDistributionTest.testMean"
+        ]
+    },
+    "62": {
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "59": [
+            "org.apache.commons.math.util.FastMathTest.testMinMaxFloat"
+        ],
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "62": [
+            "org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ]
+    },
+    "63": {
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "63": [
+            "org.apache.commons.math.util.MathUtilsTest.testArrayEquals"
+        ]
+    },
+    "64": {
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "64": [
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackJennrichSampson",
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackFreudensteinRoth"
+        ]
+    },
+    "65": {
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "64": [
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackJennrichSampson",
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackFreudensteinRoth"
+        ],
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ]
+    },
+    "66": {
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "64": [
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackJennrichSampson",
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackFreudensteinRoth"
+        ],
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "66": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin",
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testSinMin",
+            "org.apache.commons.math.optimization.univariate.BrentOptimizerTest.testQuinticMinStatistics",
+            "org.apache.commons.math.optimization.univariate.BrentOptimizerTest.testSinMin"
+        ]
+    },
+    "67": {
+        "56": [
+            "org.apache.commons.math.util.MultidimensionalCounterTest.testIterationConsistency"
+        ],
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "64": [
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackJennrichSampson",
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackFreudensteinRoth"
+        ],
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ]
+    },
+    "68": {
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "68": [
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackJennrichSampson",
+            "org.apache.commons.math.optimization.general.MinpackTest.testMinpackFreudensteinRoth"
+        ]
+    },
+    "69": {
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "69": [
+            "org.apache.commons.math.stat.correlation.PearsonsCorrelationTest.testPValueNearZero",
+            "org.apache.commons.math.stat.correlation.SpearmansRankCorrelationTest.testPValueNearZero"
+        ]
+    },
+    "70": {
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ]
+    },
+    "71": {
+        "60": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "71": [
+            "org.apache.commons.math.ode.nonstiff.ClassicalRungeKuttaIntegratorTest.testMissedEndEvent",
+            "org.apache.commons.math.ode.nonstiff.DormandPrince853IntegratorTest.testMissedEndEvent"
+        ]
+    },
+    "72": {
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ]
+    },
+    "73": {
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ]
+    },
+    "74": {
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ]
+    },
+    "75": {
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ]
+    },
+    "76": {
+        "65": [
+            "org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizerTest.testCircleFitting"
+        ],
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "76": [
+            "org.apache.commons.math.linear.SingularValueSolverTest.testMath320A",
+            "org.apache.commons.math.linear.SingularValueSolverTest.testMath320B"
+        ]
+    },
+    "77": {
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "77": [
+            "org.apache.commons.math.linear.ArrayRealVectorTest.testBasicFunctions",
+            "org.apache.commons.math.linear.SparseRealVectorTest.testBasicFunctions"
+        ]
+    },
+    "78": {
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "78": [
+            "org.apache.commons.math.ode.events.EventStateTest.closeEvents"
+        ]
+    },
+    "79": {
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ]
+    },
+    "80": {
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "80": [
+            "org.apache.commons.math.linear.EigenDecompositionImplTest.testMathpbx02"
+        ]
+    },
+    "81": {
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "81": [
+            "org.apache.commons.math.linear.EigenDecompositionImplTest.testMath308"
+        ]
+    },
+    "82": {
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "81": [
+            "org.apache.commons.math.linear.EigenDecompositionImplTest.testMath308"
+        ],
+        "82": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288"
+        ]
+    },
+    "83": {
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "81": [
+            "org.apache.commons.math.linear.EigenDecompositionImplTest.testMath308"
+        ],
+        "82": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288"
+        ],
+        "83": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath286"
+        ]
+    },
+    "84": {
+        "67": [
+            "org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest.testQuinticMin"
+        ],
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "74": [
+            "org.apache.commons.math.ode.nonstiff.AdamsMoultonIntegratorTest.polynomial"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "81": [
+            "org.apache.commons.math.linear.EigenDecompositionImplTest.testMath308"
+        ],
+        "82": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288"
+        ],
+        "83": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath286"
+        ],
+        "84": [
+            "org.apache.commons.math.optimization.direct.MultiDirectionalTest.testMinimizeMaximize",
+            "org.apache.commons.math.optimization.direct.MultiDirectionalTest.testMath283"
+        ]
+    },
+    "85": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "75": [
+            "org.apache.commons.math.stat.FrequencyTest.testPcts"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "81": [
+            "org.apache.commons.math.linear.EigenDecompositionImplTest.testMath308"
+        ],
+        "82": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288"
+        ],
+        "83": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath286"
+        ],
+        "85": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testMath280"
+        ]
+    },
+    "86": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "82": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288"
+        ],
+        "83": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath286"
+        ],
+        "86": [
+            "org.apache.commons.math.linear.CholeskyDecompositionImplTest.testMath274",
+            "org.apache.commons.math.linear.CholeskyDecompositionImplTest.testNotPositiveDefinite"
+        ]
+    },
+    "87": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "82": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288"
+        ],
+        "83": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath286"
+        ],
+        "87": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testSingleVariableAndConstraint"
+        ]
+    },
+    "88": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "79": [
+            "org.apache.commons.math.stat.clustering.KMeansPlusPlusClustererTest.testPerformClusterAnalysisDegenerate"
+        ],
+        "82": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath288"
+        ],
+        "83": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath286"
+        ],
+        "87": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testSingleVariableAndConstraint"
+        ],
+        "88": [
+            "org.apache.commons.math.optimization.linear.SimplexSolverTest.testMath272"
+        ]
+    },
+    "89": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "89": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ]
+    },
+    "90": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ]
+    },
+    "91": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ]
+    },
+    "92": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "92": [
+            "org.apache.commons.math.util.MathUtilsTest.testBinomialCoefficientLarge"
+        ]
+    },
+    "93": {
+        "70": [
+            "org.apache.commons.math.analysis.solvers.BisectionSolverTest.testMath369"
+        ],
+        "72": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testRootEndpoints"
+        ],
+        "73": [
+            "org.apache.commons.math.analysis.solvers.BrentSolverTest.testBadEndpoints"
+        ],
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "93": [
+            "org.apache.commons.math.util.MathUtilsTest.testFactorial"
+        ]
+    },
+    "94": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "94": [
+            "org.apache.commons.math.util.MathUtilsTest.testGcd"
+        ]
+    },
+    "95": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "94": [
+            "org.apache.commons.math.util.MathUtilsTest.testGcd"
+        ],
+        "95": [
+            "org.apache.commons.math.distribution.FDistributionTest.testSmallDegreesOfFreedom"
+        ]
+    },
+    "96": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "94": [
+            "org.apache.commons.math.util.MathUtilsTest.testGcd"
+        ],
+        "95": [
+            "org.apache.commons.math.distribution.FDistributionTest.testSmallDegreesOfFreedom"
+        ],
+        "96": [
+            "org.apache.commons.math.complex.ComplexTest.testMath221"
+        ]
+    },
+    "97": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "94": [
+            "org.apache.commons.math.util.MathUtilsTest.testGcd"
+        ],
+        "95": [
+            "org.apache.commons.math.distribution.FDistributionTest.testSmallDegreesOfFreedom"
+        ],
+        "96": [
+            "org.apache.commons.math.complex.ComplexTest.testMath221"
+        ],
+        "97": [
+            "org.apache.commons.math.analysis.BrentSolverTest.testRootEndpoints"
+        ]
+    },
+    "98": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "94": [
+            "org.apache.commons.math.util.MathUtilsTest.testGcd"
+        ],
+        "95": [
+            "org.apache.commons.math.distribution.FDistributionTest.testSmallDegreesOfFreedom"
+        ],
+        "96": [
+            "org.apache.commons.math.complex.ComplexTest.testMath221"
+        ],
+        "97": [
+            "org.apache.commons.math.analysis.BrentSolverTest.testRootEndpoints"
+        ],
+        "98": [
+            "org.apache.commons.math.linear.BigMatrixImplTest.testMath209",
+            "org.apache.commons.math.linear.RealMatrixImplTest.testMath209"
+        ]
+    },
+    "99": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "99": [
+            "org.apache.commons.math.util.MathUtilsTest.testGcd",
+            "org.apache.commons.math.util.MathUtilsTest.testLcm"
+        ]
+    },
+    "100": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "100": [
+            "org.apache.commons.math.estimation.GaussNewtonEstimatorTest.testBoundParameters"
+        ]
+    },
+    "101": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "100": [
+            "org.apache.commons.math.estimation.GaussNewtonEstimatorTest.testBoundParameters"
+        ],
+        "101": [
+            "org.apache.commons.math.complex.ComplexFormatTest.testForgottenImaginaryCharacter",
+            "org.apache.commons.math.complex.FrenchComplexFormatTest.testForgottenImaginaryCharacter"
+        ]
+    },
+    "102": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "102": [
+            "org.apache.commons.math.stat.inference.ChiSquareFactoryTest.testChiSquareLargeTestStatistic",
+            "org.apache.commons.math.stat.inference.ChiSquareFactoryTest.testChiSquare",
+            "org.apache.commons.math.stat.inference.ChiSquareTestTest.testChiSquareLargeTestStatistic",
+            "org.apache.commons.math.stat.inference.ChiSquareTestTest.testChiSquare",
+            "org.apache.commons.math.stat.inference.TestUtilsTest.testChiSquareLargeTestStatistic",
+            "org.apache.commons.math.stat.inference.TestUtilsTest.testChiSquare"
+        ]
+    },
+    "103": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "103": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ]
+    },
+    "104": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "103": [
+            "org.apache.commons.math.distribution.NormalDistributionTest.testExtremeValues"
+        ],
+        "104": [
+            "org.apache.commons.math.special.GammaTest.testRegularizedGammaPositivePositive"
+        ]
+    },
+    "105": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "105": [
+            "org.apache.commons.math.stat.regression.SimpleRegressionTest.testSSENonNegative"
+        ]
+    },
+    "106": {
+        "90": [
+            "org.apache.commons.math.stat.FrequencyTest.testAddNonComparable"
+        ],
+        "91": [
+            "org.apache.commons.math.fraction.FractionTest.testCompareTo"
+        ],
+        "105": [
+            "org.apache.commons.math.stat.regression.SimpleRegressionTest.testSSENonNegative"
+        ],
+        "106": [
+            "org.apache.commons.math.fraction.FractionFormatTest.testParseProperInvalidMinus"
+        ]
+    }
+}
