@@ -112,12 +112,12 @@ cat $copy_log
 echo "==========================="
 
 [ -f $save_dir/.transplant_error ] && exit 1
-cd $base_dir; git diff HEAD -- $base_tests_dir > $save_dir/$project-$fault-$base.patch
+cd $base_dir
+git diff HEAD -- $base_tests_dir > $save_dir/$project-$fault-$base.patch
 
 #
 # 5. Compile the test-transplanted version of <project>-<base>b
 #
-cd $base_dir;
 defects4j compile
 if [ ! $? -eq 0 ]; then
   echo "Error during the compilation"
@@ -180,6 +180,7 @@ sort $fault_dir/tests.trigger | while read test_method; do
   else
     python3.6 /root/workspace/discard_zero_hit.py coverage.xml $save_dir/$test_method.xml
   fi
+  rm -rf .classes_instrumented
 done
 
 #
@@ -187,14 +188,19 @@ done
 #
 if [ ! -z "$(comm -12 <(sort "$fault_dir/tests.trigger") <(sort "$base_dir/tests.trigger.base"))" ]; then
   touch $save_dir/.overlapping
-  cd $base_dir;
   git checkout HEAD~1 $base_classes_dir
+  rm failing_tests
+
+  echo $base_classes_bin_dir;
+  echo $base_tests_bin_dir;
 
   # clean up
   [ -d $base_classes_bin_dir ] && rm -rf $base_classes_bin_dir;
   [ -d $base_tests_bin_dir ] && rm -rf $base_tests_bin_dir;
 
-  defects4j compile
+  git status;
+  defects4j compile;
+  defects4j compile;
 
   timeout 10m defects4j test
   if [ ! $? -eq 0 ]; then

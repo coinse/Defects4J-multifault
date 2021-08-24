@@ -3,6 +3,10 @@ import json
 import argparse
 import logging
 
+MERGE_NEEDED = {
+    'Closure': {'21': '22'}
+}
+
 def get_fault_revealing_tests(pid, vid):
     with open(f"./resources/failing_tests/{pid}/{vid}") as f:
         return [l.replace("::", ".") for l in f.read().splitlines()]
@@ -25,7 +29,14 @@ def get_multi_faults(fault_data_dir, target_pid):
 
         if base not in multi_faults:
             multi_faults[base] = set()
+
         multi_faults[base].add(recent)
+
+    for base in multi_faults:
+        for sub, dom in MERGE_NEEDED[target_pid].items():
+            if sub in multi_faults[base] and dom in multi_faults[base]:
+                multi_faults[base].remove(sub)
+
     return multi_faults
 
 def export(pid, multi_faults, savepath=None):
@@ -39,7 +50,7 @@ def export(pid, multi_faults, savepath=None):
     os.makedirs(os.path.dirname(savepath), exist_ok=True)
     with open(savepath, 'w') as jsonfile:
         json.dump(
-            {   
+            {
                 vid: {
                     f: get_fault_revealing_tests(pid, f)
                     for f in version_to_faults[vid]

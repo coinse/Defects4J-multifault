@@ -91,4 +91,4 @@ if __name__ == "__main__":
     os.remove(path_to_error_log)
     print(f"* {path_to_dir}: The fault is revealed.")
   else:
-    print(f"* {path_to_dir}: The fault is not revealed. Checkout {error_log}")
+    print(f"* {path_to_dir}: The fault is not revealed. Checkout {path_to_error_log}")
