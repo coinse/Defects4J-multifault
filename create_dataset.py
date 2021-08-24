@@ -32,10 +32,11 @@ def get_multi_faults(fault_data_dir, target_pid):
 
         multi_faults[base].add(recent)
 
-    for base in multi_faults:
-        for sub, dom in MERGE_NEEDED[target_pid].items():
-            if sub in multi_faults[base] and dom in multi_faults[base]:
-                multi_faults[base].remove(sub)
+    if target_pid in MERGE_NEEDED:
+        for base in multi_faults:
+            for sub, dom in MERGE_NEEDED[target_pid].items():
+                if sub in multi_faults[base] and dom in multi_faults[base]:
+                    multi_faults[base].remove(sub)
 
     return multi_faults
 
