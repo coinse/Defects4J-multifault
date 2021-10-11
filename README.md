@@ -1,6 +1,6 @@
 # Multiple faults dataset for Java programs (Extension of Defects4J)
 
-This replication package implements a technique to find multi-fault versions in the [Defecst4J](https://github.com/rjust/defects4j) dataset accompanying the paper: "Searching for Multi-Fault Programs in Defects4J", *Gabin An, Juyeon Yoon, Shin Yoo*, SSBSE 2021 ([preprint](https://arxiv.org/pdf/2108.04455.pdf)).
+This replication package implements a technique to find multi-fault versions in the [Defecst4J](https://github.com/rjust/defects4j) dataset accompanying the paper: "Searching for Multi-Fault Programs in Defects4J", *Gabin An, Juyeon Yoon, Shin Yoo*, SSBSE 2021 [[preprint](https://arxiv.org/pdf/2108.04455.pdf)][[slides](https://www.slideshare.net/GabinAn1/searching-for-multifault-programs-in-defects4j)].
 
 If you use this dataset, please cite our SSBSE paper:
 ```bib
