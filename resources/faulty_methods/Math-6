@@ -1,0 +1,7 @@
+org.apache.commons.math3.optim.nonlinear.scalar.noderiv.PowellOptimizer$doOptimize<>
+org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizer$doOptimize<>
+org.apache.commons.math3.optim.nonlinear.scalar.gradient.NonLinearConjugateGradientOptimizer$doOptimize<>
+org.apache.commons.math3.optim.BaseOptimizer$<init><Lorg/apache/commons/math3/optim/ConvergenceChecker;>
+org.apache.commons.math3.optim.nonlinear.scalar.noderiv.SimplexOptimizer$doOptimize<>
+org.apache.commons.math3.optim.nonlinear.vector.jacobian.GaussNewtonOptimizer$doOptimize<>
+org.apache.commons.math3.optim.nonlinear.scalar.noderiv.CMAESOptimizer$doOptimize<>

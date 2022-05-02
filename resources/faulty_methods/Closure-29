@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.InlineObjectLiterals$InliningBehavior$isInlinableObject<Ljava/util/List;>
+com.google.javascript.jscomp.InlineObjectLiterals$InliningBehavior$afterExitScope<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/jscomp/ReferenceCollectingCallback$ReferenceMap;>

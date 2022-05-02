@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.ControlFlowAnalysis$mayThrowException<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.DisambiguateProperties$JSTypeSystem$getTypeWithProperty<Ljava/lang/String;Lcom/google/javascript/rhino/jstype/JSType;>

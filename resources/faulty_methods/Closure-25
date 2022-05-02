@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.TypeInference$traverseNew<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/jscomp/type/FlowScope;>
+com.google.javascript.jscomp.TypeInference$updateTypeOfThisOnClosure<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/jstype/FunctionType;>

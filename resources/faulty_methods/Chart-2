@@ -1,0 +1,2 @@
+org.jfree.data.general.DatasetUtilities$iterateDomainBounds<Lorg/jfree/data/xy/XYDataset;Z>
+org.jfree.data.general.DatasetUtilities$iterateRangeBounds<Lorg/jfree/data/xy/XYDataset;Z>

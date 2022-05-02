@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.MaybeReachingVariableUse$computeMayUse<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/jscomp/MaybeReachingVariableUse$ReachingUses;Z>
+com.google.javascript.jscomp.MaybeReachingVariableUse$flowThrough<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/jscomp/MaybeReachingVariableUse$ReachingUses;>

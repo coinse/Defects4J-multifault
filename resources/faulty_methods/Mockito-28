@@ -1,0 +1,3 @@
+org.mockito.internal.configuration.DefaultInjectionEngine$injectMocksOnFields<Ljava/util/Set;Ljava/util/Set;Ljava/lang/Object;>
+org.mockito.internal.configuration.DefaultInjectionEngine$1$compare<Ljava/lang/reflect/Field;Ljava/lang/reflect/Field;>
+org.mockito.internal.configuration.DefaultInjectionEngine$injectMockCandidate<Ljava/lang/Class;Ljava/util/Set;Ljava/lang/Object;>

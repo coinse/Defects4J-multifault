@@ -1,0 +1,2 @@
+org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer$optimize<Lorg/apache/commons/math/analysis/UnivariateRealFunction;Lorg/apache/commons/math/optimization/GoalType;DD>
+org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer$optimize<Lorg/apache/commons/math/analysis/UnivariateRealFunction;Lorg/apache/commons/math/optimization/GoalType;DDD>

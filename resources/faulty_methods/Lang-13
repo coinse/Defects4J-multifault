@@ -1,0 +1,2 @@
+org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream$resolveClass<Ljava/io/ObjectStreamClass;>
+org.apache.commons.lang3.SerializationUtils$ClassLoaderAwareObjectInputStream$<init><Ljava/io/InputStream;Ljava/lang/ClassLoader;>

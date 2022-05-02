@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.ReferenceCollectingCallback$ReferenceCollection$isAssignedOnce<>
+com.google.javascript.jscomp.ReferenceCollectingCallback$BasicBlock$<init><Lcom/google/javascript/jscomp/ReferenceCollectingCallback$BasicBlock;Lcom/google/javascript/rhino/Node;>

@@ -1,0 +1,4 @@
+org.mockito.internal.creation.DelegatingMethod$<clinit><>
+org.mockito.internal.creation.DelegatingMethod$isAbstract<>
+org.mockito.internal.creation.DelegatingMethod$equals<Ljava/lang/Object;>
+org.mockito.internal.creation.DelegatingMethod$hashCode<>

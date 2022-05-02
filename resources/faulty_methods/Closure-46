@@ -1,0 +1,2 @@
+com.google.javascript.rhino.jstype.RecordType$getGreatestSubtypeHelper<Lcom/google/javascript/rhino/jstype/JSType;>
+com.google.javascript.rhino.jstype.RecordType$getLeastSupertype<Lcom/google/javascript/rhino/jstype/JSType;>

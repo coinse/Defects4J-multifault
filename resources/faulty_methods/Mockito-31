@@ -1,0 +1,2 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$ThrowingInterceptor$intercept<Ljava/lang/Object;Ljava/lang/reflect/Method;[Ljava/lang/Object;Lorg/mockito/cglib/proxy/MethodProxy;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$<init><>

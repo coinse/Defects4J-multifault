@@ -1,0 +1,9 @@
+org.jfree.data.KeyedObjects2D$removeColumn<I>
+org.jfree.data.KeyedObjects2D$setObject<Ljava/lang/Object;Ljava/lang/Comparable;Ljava/lang/Comparable;>
+org.jfree.data.KeyedObjects2D$removeObject<Ljava/lang/Comparable;Ljava/lang/Comparable;>
+org.jfree.data.KeyedObjects2D$removeRow<Ljava/lang/Comparable;>
+org.jfree.data.KeyedObjects2D$removeColumn<Ljava/lang/Comparable;>
+org.jfree.data.KeyedObjects2D$getObject<Ljava/lang/Comparable;Ljava/lang/Comparable;>
+org.jfree.data.KeyedObjects2D$removeRow<I>
+org.jfree.data.KeyedObjects2D$getObject<II>
+org.jfree.data.KeyedObjects2D$addObject<Ljava/lang/Object;Ljava/lang/Comparable;Ljava/lang/Comparable;>

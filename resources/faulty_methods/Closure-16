@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.ScopedAliases$Traversal$fixTypeNode<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.ScopedAliases$AliasedTypeNode$applyAlias<>
+com.google.javascript.jscomp.ScopedAliases$AliasedTypeNode$<init><Lcom/google/javascript/jscomp/ScopedAliases;Lcom/google/javascript/rhino/Node;Ljava/lang/String;>

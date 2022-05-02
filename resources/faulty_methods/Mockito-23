@@ -1,0 +1,8 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$2$<init><Lorg/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs;Ljava/lang/Object;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$<init><>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$recordDeepStubMock<Ljava/lang/Object;Lorg/mockito/internal/stubbing/InvocationContainerImpl;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$withSettingsUsing<Lorg/mockito/internal/util/reflection/GenericMetadataSupport;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$actualParameterizedType<Ljava/lang/Object;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$answer<Lorg/mockito/invocation/InvocationOnMock;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$2$answer<Lorg/mockito/invocation/InvocationOnMock;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$getMock<Lorg/mockito/invocation/InvocationOnMock;Lorg/mockito/internal/util/reflection/GenericMetadataSupport;>

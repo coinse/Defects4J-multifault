@@ -1,0 +1,5 @@
+org.mockito.internal.invocation.InvocationMatcher$createFrom<Ljava/util/List;>
+org.mockito.internal.invocation.InvocationMatcher$hasSameMethod<Lorg/mockito/invocation/Invocation;>
+org.mockito.internal.invocation.InvocationMatcher$isVarargMatcher<Lorg/hamcrest/Matcher;>
+org.mockito.internal.invocation.InvocationMatcher$captureArgumentsFrom<Lorg/mockito/invocation/Invocation;>
+org.mockito.internal.invocation.InvocationMatcher$isVariableArgument<Lorg/mockito/invocation/Invocation;I>

@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.FunctionTypeBuilder$inferParameterTypes<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/JSDocInfo;>
+com.google.javascript.jscomp.FunctionTypeBuilder$inferFromOverriddenFunction<Lcom/google/javascript/rhino/jstype/FunctionType;Lcom/google/javascript/rhino/Node;>

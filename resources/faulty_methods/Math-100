@@ -1,0 +1,2 @@
+org.apache.commons.math.estimation.AbstractEstimator$guessParametersErrors<Lorg/apache/commons/math/estimation/EstimationProblem;>
+org.apache.commons.math.estimation.AbstractEstimator$getCovariances<Lorg/apache/commons/math/estimation/EstimationProblem;>

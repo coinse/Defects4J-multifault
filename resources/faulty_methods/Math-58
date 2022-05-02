@@ -1,0 +1,8 @@
+org.apache.commons.math.optimization.fitting.GaussianFitter$ParameterGuesser$getInterpolationPointsForY<[Lorg/apache/commons/math/optimization/fitting/WeightedObservedPoint;IID>
+org.apache.commons.math.optimization.fitting.GaussianFitter$<init><Lorg/apache/commons/math/optimization/DifferentiableMultivariateVectorialOptimizer;>
+org.apache.commons.math.optimization.fitting.GaussianFitter$fit<>
+org.apache.commons.math.optimization.fitting.GaussianFitter$ParameterGuesser$basicGuess<[Lorg/apache/commons/math/optimization/fitting/WeightedObservedPoint;>
+org.apache.commons.math.optimization.fitting.GaussianFitter$1$compare<Ljava/lang/Object;Ljava/lang/Object;>
+org.apache.commons.math.optimization.fitting.GaussianFitter$ParameterGuesser$guess<>
+org.apache.commons.math.optimization.fitting.GaussianFitter$ParameterGuesser$isBetween<DDD>
+org.apache.commons.math.optimization.fitting.GaussianFitter$ParameterGuesser$findMaxY<[Lorg/apache/commons/math/optimization/fitting/WeightedObservedPoint;>

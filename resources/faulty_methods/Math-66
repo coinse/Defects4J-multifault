@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.univariate.BrentOptimizer$doOptimize<>
+org.apache.commons.math.optimization.univariate.BrentOptimizer$localMin<Lorg/apache/commons/math/analysis/UnivariateRealFunction;Lorg/apache/commons/math/optimization/GoalType;DDDDD>
+org.apache.commons.math.optimization.univariate.BrentOptimizer$optimize<Lorg/apache/commons/math/analysis/UnivariateRealFunction;Lorg/apache/commons/math/optimization/GoalType;DD>
+org.apache.commons.math.optimization.univariate.BrentOptimizer$optimize<Lorg/apache/commons/math/analysis/UnivariateRealFunction;Lorg/apache/commons/math/optimization/GoalType;DDD>
+org.apache.commons.math.optimization.univariate.BrentOptimizer$<init><>

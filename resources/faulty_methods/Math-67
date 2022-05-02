@@ -1,0 +1,3 @@
+org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizer$getResult<>
+org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizer$optimize<Lorg/apache/commons/math/analysis/UnivariateRealFunction;Lorg/apache/commons/math/optimization/GoalType;DDD>
+org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizer$getFunctionValue<>

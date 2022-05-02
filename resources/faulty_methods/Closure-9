@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.ProcessCommonJSModules$normalizeSourceName<Ljava/lang/String;>
+com.google.javascript.jscomp.ProcessCommonJSModules$ProcessCommonJsModulesCallback$visitScript<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;>

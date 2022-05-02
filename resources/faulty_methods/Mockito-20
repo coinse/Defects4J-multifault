@@ -1,0 +1,3 @@
+org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker$getHandler<Ljava/lang/Object;>
+org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker$ensureMockIsAssignableToMockedType<Lorg/mockito/mock/MockCreationSettings;Ljava/lang/Object;>
+org.mockito.internal.creation.bytebuddy.ByteBuddyMockMaker$createMock<Lorg/mockito/mock/MockCreationSettings;Lorg/mockito/invocation/MockHandler;>

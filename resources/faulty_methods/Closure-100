@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.CheckGlobalThis$visit<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.CheckGlobalThis$shouldTraverse<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>

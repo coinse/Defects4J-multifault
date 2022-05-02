@@ -1,0 +1,3 @@
+org.jfree.data.time.TimeSeries$createCopy<Lorg/jfree/data/time/RegularTimePeriod;Lorg/jfree/data/time/RegularTimePeriod;>
+org.jfree.data.time.TimeSeries$equals<Ljava/lang/Object;>
+org.jfree.data.time.TimeSeries$addOrUpdate<Lorg/jfree/data/time/RegularTimePeriod;D>

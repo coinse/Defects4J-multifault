@@ -1,0 +1,3 @@
+org.mockito.internal.creation.instance.ConstructorInstantiator$newInstance<Ljava/lang/Class;>
+org.mockito.internal.creation.instance.ConstructorInstantiator$noArgConstructor<Ljava/lang/Class;>
+org.mockito.internal.creation.instance.ConstructorInstantiator$withOuterClass<Ljava/lang/Class;>

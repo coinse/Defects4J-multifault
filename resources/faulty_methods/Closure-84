@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.parsing.IRFactory$TransformDispatcher$processAssignment<Lcom/google/javascript/jscomp/mozilla/rhino/ast/Assignment;>
+com.google.javascript.jscomp.parsing.IRFactory$TransformDispatcher$processUnaryExpression<Lcom/google/javascript/jscomp/mozilla/rhino/ast/UnaryExpression;>
+com.google.javascript.jscomp.parsing.IRFactory$TransformDispatcher$processVariableDeclaration<Lcom/google/javascript/jscomp/mozilla/rhino/ast/VariableDeclaration;>

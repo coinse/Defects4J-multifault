@@ -1,0 +1,4 @@
+org.apache.commons.math.util.MathUtils$equals<[D[D>
+org.apache.commons.math.util.MathUtils$factorial<I>
+org.apache.commons.math.util.MathUtils$factorialLog<I>
+org.apache.commons.math.util.MathUtils$factorialDouble<I>

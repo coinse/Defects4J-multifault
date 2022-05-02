@@ -1,0 +1,4 @@
+org.jfree.chart.renderer.GrayPaintScale$getUpperBound<>
+org.jfree.chart.renderer.GrayPaintScale$getLowerBound<>
+org.jfree.chart.renderer.GrayPaintScale$<init><DD>
+org.jfree.chart.renderer.GrayPaintScale$getPaint<D>

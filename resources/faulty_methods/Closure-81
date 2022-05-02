@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.parsing.IRFactory$TransformDispatcher$processFunctionNode<Lcom/google/javascript/jscomp/mozilla/rhino/ast/FunctionNode;>
+com.google.javascript.jscomp.parsing.IRFactory$TransformDispatcher$processFunctionCall<Lcom/google/javascript/jscomp/mozilla/rhino/ast/FunctionCall;>

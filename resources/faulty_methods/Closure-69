@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.TypeCheck$<clinit><>
+com.google.javascript.jscomp.TypeCheck$visitCall<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;>

@@ -1,0 +1,6 @@
+org.apache.commons.math.util.MathUtils$checkOrder<[DIZ>
+org.apache.commons.math.util.MathUtils$checkOrder<[D>
+org.apache.commons.math.util.MathUtils$equals<DD>
+org.apache.commons.math.util.MathUtils$equals<[D[D>
+org.apache.commons.math.util.MathUtils$roundUnscaled<DDI>
+org.apache.commons.math.util.MathUtils$nextAfter<DD>

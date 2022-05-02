@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.PeepholeFoldConstants$<init><>
+com.google.javascript.jscomp.PeepholeFoldConstants$<clinit><>
+com.google.javascript.jscomp.PeepholeFoldConstants$performArithmeticOp<ILcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>

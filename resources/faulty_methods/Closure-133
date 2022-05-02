@@ -1,0 +1,4 @@
+com.google.javascript.jscomp.parsing.JsDocInfoParser$extractMultilineTextualBlock<Lcom/google/javascript/jscomp/parsing/JsDocToken;Lcom/google/javascript/jscomp/parsing/JsDocInfoParser$WhitespaceOption;>
+com.google.javascript.jscomp.parsing.JsDocInfoParser$skipEOLs<>
+com.google.javascript.jscomp.parsing.JsDocInfoParser$extractSingleLineBlock<>
+com.google.javascript.jscomp.parsing.JsDocInfoParser$extractBlockComment<Lcom/google/javascript/jscomp/parsing/JsDocToken;>

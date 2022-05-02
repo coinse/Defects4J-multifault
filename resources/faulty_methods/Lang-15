@@ -1,0 +1,2 @@
+org.apache.commons.lang3.reflect.TypeUtils$getTypeArguments<Ljava/lang/Class;Ljava/lang/Class;Ljava/util/Map;>
+org.apache.commons.lang3.reflect.TypeUtils$isAssignable<Ljava/lang/reflect/Type;Ljava/lang/reflect/ParameterizedType;Ljava/util/Map;>

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.FunctionRewriter$SetterReducer$reduce<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.FunctionRewriter$ReturnConstantReducer$reduce<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.FunctionRewriter$GetterReducer$reduce<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.FunctionRewriter$parseHelperCode<Lcom/google/javascript/jscomp/FunctionRewriter$Reducer;>
+com.google.javascript.jscomp.FunctionRewriter$IdentityReducer$reduce<Lcom/google/javascript/rhino/Node;>

@@ -1,0 +1,3 @@
+org.mockito.internal.util.reflection.GenericMetadataSupport$registerTypeParametersOn<[Ljava/lang/reflect/TypeVariable;>
+org.mockito.internal.util.reflection.GenericMetadataSupport$registerTypeVariablesOn<Ljava/lang/reflect/Type;>
+org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType$readTypeVariables<>

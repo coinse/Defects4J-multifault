@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate$canInline<>
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$enterScope<Lcom/google/javascript/jscomp/NodeTraversal;>
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate$getDefCfgNode<>
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$1$apply<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$1$apply<Ljava/lang/Object;>

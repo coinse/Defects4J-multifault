@@ -1,0 +1,4 @@
+org.apache.commons.math.linear.EigenDecompositionImpl$findEigenvalues<>
+org.apache.commons.math.linear.EigenDecompositionImpl$computeShiftIncrement<III>
+org.apache.commons.math.linear.EigenDecompositionImpl$computeGershgorinCircles<>
+org.apache.commons.math.linear.EigenDecompositionImpl$processGeneralBlock<I>

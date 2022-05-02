@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.NodeUtil$isStrWhiteSpaceChar<I>
+com.google.javascript.jscomp.NodeUtil$getStringNumberValue<Ljava/lang/String;>
+com.google.javascript.jscomp.NodeUtil$trimJsWhiteSpace<Ljava/lang/String;>

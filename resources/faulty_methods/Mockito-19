@@ -1,0 +1,7 @@
+org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter$<init><Lorg/mockito/internal/configuration/injection/filter/MockCandidateFilter;>
+org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter$filterCandidate<Ljava/util/Collection;Ljava/lang/reflect/Field;Ljava/lang/Object;>
+org.mockito.internal.configuration.injection.filter.NameBasedCandidateFilter$<init><Lorg/mockito/internal/configuration/injection/filter/MockCandidateFilter;>
+org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter$filterCandidate<Ljava/util/Collection;Ljava/lang/reflect/Field;Ljava/lang/Object;>
+org.mockito.internal.configuration.injection.filter.TypeBasedCandidateFilter$filterCandidate<Ljava/util/Collection;Ljava/lang/reflect/Field;Ljava/lang/Object;>
+org.mockito.internal.configuration.injection.PropertyAndSetterInjection$injectMockCandidatesOnFields<Ljava/util/Set;Ljava/lang/Object;ZLjava/util/List;>
+org.mockito.internal.configuration.injection.filter.FinalMockCandidateFilter$<init><>

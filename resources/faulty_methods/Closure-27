@@ -1,0 +1,5 @@
+com.google.javascript.rhino.IR$block<[Lcom/google/javascript/rhino/Node;>
+com.google.javascript.rhino.IR$tryCatch<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.rhino.IR$script<[Lcom/google/javascript/rhino/Node;>
+com.google.javascript.rhino.IR$tryCatchFinally<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.rhino.IR$tryFinally<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>

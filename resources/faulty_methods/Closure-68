@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.parsing.JsDocInfoParser$parseBasicTypeExpression<Lcom/google/javascript/jscomp/parsing/JsDocToken;>
+com.google.javascript.jscomp.parsing.JsDocInfoParser$parseFunctionType<Lcom/google/javascript/jscomp/parsing/JsDocToken;>
+com.google.javascript.jscomp.parsing.JsDocInfoParser$parse<>

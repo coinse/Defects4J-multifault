@@ -1,0 +1,3 @@
+org.mockito.Matchers$eq<Ljava/lang/Object;>
+org.mockito.Matchers$isA<Ljava/lang/Class;>
+org.mockito.Matchers$same<Ljava/lang/Object;>

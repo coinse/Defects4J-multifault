@@ -1,0 +1,8 @@
+org.apache.commons.math.linear.ArrayRealVector$getL1Norm<>
+org.apache.commons.math.linear.ArrayRealVector$getNorm<>
+org.apache.commons.math.linear.OpenMapRealVector$isInfinite<>
+org.apache.commons.math.linear.OpenMapRealVector$getLInfNorm<>
+org.apache.commons.math.linear.ArrayRealVector$getLInfNorm<>
+org.apache.commons.math.linear.OpenMapRealVector$getNorm<>
+org.apache.commons.math.linear.OpenMapRealVector$getL1Norm<>
+org.apache.commons.math.linear.OpenMapRealVector$getL1Distance<[D>

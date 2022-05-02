@@ -1,0 +1,9 @@
+org.mockito.exceptions.Reporter$cannotInjectDependency<Ljava/lang/reflect/Field;Ljava/lang/Object;Ljava/lang/Exception;>
+org.mockito.exceptions.Reporter$delegatedMethodHasWrongReturnType<Ljava/lang/reflect/Method;Ljava/lang/reflect/Method;Ljava/lang/Object;Ljava/lang/Object;>
+org.mockito.exceptions.Reporter$wrongTypeOfArgumentToReturn<Lorg/mockito/invocation/InvocationOnMock;Ljava/lang/String;Ljava/lang/Class;I>
+org.mockito.exceptions.Reporter$invalidArgumentPositionRangeAtInvocationTime<Lorg/mockito/invocation/InvocationOnMock;ZI>
+org.mockito.exceptions.Reporter$delegatedMethodDoesNotExistOnDelegate<Ljava/lang/reflect/Method;Ljava/lang/Object;Ljava/lang/Object;>
+org.mockito.exceptions.Reporter$mockedTypeIsInconsistentWithDelegatedInstanceType<Ljava/lang/Class;Ljava/lang/Object;>
+org.mockito.exceptions.Reporter$noMoreInteractionsWanted<Lorg/mockito/invocation/Invocation;Ljava/util/List;>
+org.mockito.exceptions.Reporter$noMoreInteractionsWantedInOrder<Lorg/mockito/invocation/Invocation;>
+org.mockito.exceptions.Reporter$usingConstructorWithFancySerializable<Lorg/mockito/mock/SerializableMode;>

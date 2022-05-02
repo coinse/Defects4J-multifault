@@ -1,0 +1,6 @@
+org.apache.commons.lang.StringEscapeUtils$escapeJavaScript<Ljava/lang/String;>
+org.apache.commons.lang.StringEscapeUtils$escapeJava<Ljava/io/Writer;Ljava/lang/String;>
+org.apache.commons.lang.StringEscapeUtils$escapeJavaStyleString<Ljava/io/Writer;Ljava/lang/String;Z>
+org.apache.commons.lang.StringEscapeUtils$escapeJavaStyleString<Ljava/lang/String;Z>
+org.apache.commons.lang.StringEscapeUtils$escapeJava<Ljava/lang/String;>
+org.apache.commons.lang.StringEscapeUtils$escapeJavaScript<Ljava/io/Writer;Ljava/lang/String;>

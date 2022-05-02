@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.NodeTraversal$traverseFunction<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.parsing.IRFactory$TransformDispatcher$processFunctionNode<Lcom/google/javascript/rhino/head/ast/FunctionNode;>

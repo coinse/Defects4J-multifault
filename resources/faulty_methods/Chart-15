@@ -1,0 +1,2 @@
+org.jfree.chart.plot.PiePlot$getMaximumExplodePercent<>
+org.jfree.chart.plot.PiePlot$initialise<Ljava/awt/Graphics2D;Ljava/awt/geom/Rectangle2D;Lorg/jfree/chart/plot/PiePlot;Ljava/lang/Integer;Lorg/jfree/chart/plot/PlotRenderingInfo;>

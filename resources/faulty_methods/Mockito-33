@@ -1,0 +1,2 @@
+org.mockito.internal.invocation.InvocationMatcher$hasSameMethod<Lorg/mockito/internal/invocation/Invocation;>
+org.mockito.internal.invocation.InvocationMatcher$hasSimilarMethod<Lorg/mockito/internal/invocation/Invocation;>

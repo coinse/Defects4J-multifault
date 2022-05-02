@@ -1,0 +1,4 @@
+org.joda.time.LocalDate$fromCalendarFields<Ljava/util/Calendar;>
+org.joda.time.LocalDate$fromDateFields<Ljava/util/Date;>
+org.joda.time.LocalDateTime$fromDateFields<Ljava/util/Date;>
+org.joda.time.LocalDateTime$fromCalendarFields<Ljava/util/Calendar;>

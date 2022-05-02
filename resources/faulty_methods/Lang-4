@@ -1,0 +1,2 @@
+org.apache.commons.lang3.text.translate.LookupTranslator$translate<Ljava/lang/CharSequence;ILjava/io/Writer;>
+org.apache.commons.lang3.text.translate.LookupTranslator$<init><[[Ljava/lang/CharSequence;>

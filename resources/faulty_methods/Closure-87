@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax$tryMinimizeIf<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax$getBlockExpression<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax$isExpressBlock<Lcom/google/javascript/rhino/Node;>

@@ -1,0 +1,4 @@
+org.mockito.internal.creation.MockSettingsImpl$<init><>
+org.mockito.internal.creation.MockSettingsImpl$isSerializable<>
+org.mockito.internal.util.MockUtil$createMock<Ljava/lang/Class;Lorg/mockito/internal/creation/MockSettingsImpl;>
+org.mockito.internal.creation.MockSettingsImpl$serializable<>

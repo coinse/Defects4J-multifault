@@ -1,0 +1,5 @@
+org.apache.commons.lang3.builder.HashCodeBuilder$register<Ljava/lang/Object;>
+org.apache.commons.lang3.builder.HashCodeBuilder$unregister<Ljava/lang/Object;>
+org.apache.commons.lang3.builder.HashCodeBuilder$getRegistry<>
+org.apache.commons.lang3.builder.HashCodeBuilder$1$initialValue<>
+org.apache.commons.lang3.builder.HashCodeBuilder$isRegistered<Ljava/lang/Object;>

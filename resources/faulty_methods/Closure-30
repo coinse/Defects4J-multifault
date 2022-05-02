@@ -1,0 +1,6 @@
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$1$visit<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.MustBeReachingVariableDef$dependsOnOuterScopeVars<Ljava/lang/String;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.MustBeReachingVariableDef$1$visit<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$process<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.MustBeReachingVariableDef$Definition$<init><Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.MustBeReachingVariableDef$1$<init><Lcom/google/javascript/jscomp/MustBeReachingVariableDef;Lcom/google/javascript/jscomp/MustBeReachingVariableDef$Definition;>

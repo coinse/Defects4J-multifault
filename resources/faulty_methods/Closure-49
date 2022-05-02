@@ -1,0 +1,4 @@
+com.google.javascript.jscomp.MakeDeclaredNamesUnique$enterScope<Lcom/google/javascript/jscomp/NodeTraversal;>
+com.google.javascript.jscomp.MakeDeclaredNamesUnique$<init><Lcom/google/javascript/jscomp/MakeDeclaredNamesUnique$Renamer;>
+com.google.javascript.jscomp.MakeDeclaredNamesUnique$visit<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.MakeDeclaredNamesUnique$shouldTraverse<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>

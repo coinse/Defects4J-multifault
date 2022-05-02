@@ -1,0 +1,2 @@
+org.apache.commons.math.analysis.solvers.BrentSolver$solve<Lorg/apache/commons/math/analysis/UnivariateRealFunction;DD>
+org.apache.commons.math.analysis.solvers.BrentSolver$solve<Lorg/apache/commons/math/analysis/UnivariateRealFunction;DDD>

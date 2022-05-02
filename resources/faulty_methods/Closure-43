@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypedScopeCreator$AbstractScopeBuilder$defineObjectLiteral<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.TypedScopeCreator$AbstractScopeBuilder$processObjectLitProperties<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/jstype/ObjectType;Z>
+com.google.javascript.jscomp.TypedScopeCreator$AbstractScopeBuilder$<init><Lcom/google/javascript/jscomp/TypedScopeCreator;Lcom/google/javascript/jscomp/Scope;>
+com.google.javascript.jscomp.TypedScopeCreator$AbstractScopeBuilder$visit<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.TypedScopeCreator$AbstractScopeBuilder$attachLiteralTypes<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;>

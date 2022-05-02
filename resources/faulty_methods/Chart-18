@@ -1,0 +1,5 @@
+org.jfree.data.DefaultKeyedValues$sortByKeys<Lorg/jfree/chart/util/SortOrder;>
+org.jfree.data.DefaultKeyedValues$removeValue<Ljava/lang/Comparable;>
+org.jfree.data.DefaultKeyedValues2D$removeColumn<I>
+org.jfree.data.DefaultKeyedValues2D$removeColumn<Ljava/lang/Comparable;>
+org.jfree.data.DefaultKeyedValues$removeValue<I>

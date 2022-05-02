@@ -1,0 +1,2 @@
+org.mockito.internal.MockHandler$handle<Lorg/mockito/internal/invocation/Invocation;>
+org.mockito.internal.MockitoCore$verify<Ljava/lang/Object;Lorg/mockito/verification/VerificationMode;>

@@ -1,0 +1,2 @@
+com.google.javascript.jscomp.SourceMap$addMapping<Lcom/google/javascript/rhino/Node;Lcom/google/debugging/sourcemap/FilePosition;Lcom/google/debugging/sourcemap/FilePosition;>
+com.google.debugging.sourcemap.SourceMapConsumerV3$getOriginalMappingForEntry<Lcom/google/debugging/sourcemap/SourceMapConsumerV3$Entry;>

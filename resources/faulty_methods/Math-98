@@ -1,0 +1,2 @@
+org.apache.commons.math.linear.RealMatrixImpl$operate<[D>
+org.apache.commons.math.linear.BigMatrixImpl$operate<[Ljava/math/BigDecimal;>

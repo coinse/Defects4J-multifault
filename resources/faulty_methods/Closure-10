@@ -1,0 +1,4 @@
+com.google.javascript.jscomp.NodeUtil$valueCheck<Lcom/google/javascript/rhino/Node;Lcom/google/common/base/Predicate;>
+com.google.javascript.jscomp.NodeUtil$isNumericResult<Lcom/google/javascript/rhino/Node;>
+com.google.javascript.jscomp.NodeUtil$mayBeString<Lcom/google/javascript/rhino/Node;Z>
+com.google.javascript.jscomp.NodeUtil$isBooleanResult<Lcom/google/javascript/rhino/Node;>

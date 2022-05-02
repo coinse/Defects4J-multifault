@@ -1,0 +1,4 @@
+com.google.javascript.jscomp.TypeValidator$registerMismatch<Lcom/google/javascript/rhino/jstype/JSType;Lcom/google/javascript/rhino/jstype/JSType;Lcom/google/javascript/jscomp/JSError;>
+com.google.javascript.jscomp.TypeValidator$bothIntrinsics<Lcom/google/javascript/rhino/jstype/JSType;Lcom/google/javascript/rhino/jstype/JSType;>
+com.google.javascript.jscomp.TypeValidator$expectCanAssignTo<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/jstype/JSType;Lcom/google/javascript/rhino/jstype/JSType;Ljava/lang/String;>
+com.google.javascript.jscomp.TypeValidator$expectCanAssignToPropertyOf<Lcom/google/javascript/jscomp/NodeTraversal;Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/jstype/JSType;Lcom/google/javascript/rhino/jstype/JSType;Lcom/google/javascript/rhino/Node;Ljava/lang/String;>

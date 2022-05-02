@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.GlobalNamespace$Name$canCollapseUnannotatedChildNames<>
+com.google.javascript.jscomp.CollapseProperties$updateSimpleDeclaration<Ljava/lang/String;Lcom/google/javascript/jscomp/GlobalNamespace$Name;Lcom/google/javascript/jscomp/GlobalNamespace$Ref;>
+com.google.javascript.jscomp.GlobalNamespace$BuildGlobalNamespace$isConstructorOrEnumDeclaration<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/rhino/Node;>

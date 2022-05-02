@@ -1,0 +1,3 @@
+com.google.javascript.jscomp.CodePrinter$PrettyCodePrinter$appendOp<Ljava/lang/String;Z>
+com.google.javascript.jscomp.CodeGenerator$isSimpleNumber<Ljava/lang/String;>
+com.google.javascript.jscomp.CodeGenerator$add<Lcom/google/javascript/rhino/Node;Lcom/google/javascript/jscomp/CodeGenerator$Context;>

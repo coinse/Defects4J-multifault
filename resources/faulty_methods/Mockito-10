@@ -1,0 +1,5 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$newDeepStubMock<Lorg/mockito/internal/util/reflection/GenericMetadataSupport;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$<init><>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$returnsDeepStubsAnswerUsing<Lorg/mockito/internal/util/reflection/GenericMetadataSupport;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$deepStub<Lorg/mockito/invocation/InvocationOnMock;Lorg/mockito/internal/util/reflection/GenericMetadataSupport;>
+org.mockito.internal.stubbing.defaultanswers.ReturnsDeepStubs$withSettingsUsing<Lorg/mockito/internal/util/reflection/GenericMetadataSupport;>
