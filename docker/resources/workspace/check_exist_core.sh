@@ -178,7 +178,7 @@ sort $fault_dir/tests.trigger | while read test_method; do
     echo "Timeout!"
     touch $save_dir/.coverage_error
   else
-    python3.6 /root/workspace/discard_zero_hit.py coverage.xml $save_dir/$test_method.xml
+    python /root/workspace/discard_zero_hit.py coverage.xml $save_dir/$test_method.xml
   fi
   rm -rf .classes_instrumented
 done
