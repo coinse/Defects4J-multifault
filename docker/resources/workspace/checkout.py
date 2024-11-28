@@ -67,7 +67,7 @@ if __name__ == "__main__":
       test_name = test.split('::')[1]
       source = os.path.join(tmp_path, tmp_test_src, test_file)
       dest = os.path.join(checkout_path, test_src, test_file)
-      os.system(f"python3.6 /root/workspace/copy_test.py {source} {dest} {test_name}")
+      os.system(f"python /root/workspace/copy_test.py {source} {dest} {test_name}")
     shutil.copy(path_to_tests, os.path.join(checkout_path, f"tests.trigger.{fault}"))
     os.chdir(checkout_path)
     shutil.rmtree(tmp_path)
