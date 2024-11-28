@@ -70,14 +70,14 @@ To replicate the whole search in the paper,
 ```bash
 # on the docker container
 cd /root/workspace
-python3.6 search.py <projects> --savedir <dirname>
+python search.py <projects> --savedir <dirname>
 ```
 
 Then, the search results are saved to `/root/fault_data/<dirname>/` directory in the container (which is `./fault_data/<dirname>` in the host machine).
 
 For example,
 ```
-python3.6 search.py Lang,Chart,Time,Math,Closure --savedir multi_replicated
+python search.py Lang,Chart,Time,Math,Closure --savedir multi_replicated
 ```
 will save the searh results to `/root/fault_data/multi_replicated/`
 
@@ -100,7 +100,7 @@ the source code remains the same, but additional bug-revealing test cases are tr
 On the docker container, use the following command to check out the source code:
 ```bash
 # on the docker container
-python3.6 checkout.py Lang-26-27-31 -w /tmp/Lang-26-27-31
+python checkout.py Lang-26-27-31 -w /tmp/Lang-26-27-31
 cd /tmp/Lang-26-27-31
 git diff
 cat tests.trigger.*
